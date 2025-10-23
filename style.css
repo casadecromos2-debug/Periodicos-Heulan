@@ -1,0 +1,29 @@
+
+/* Estilo base oscuro para toda la web */
+body {
+  background-color: #000; /* Fondo negro */
+  color: #fff; /* Texto blanco */
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+h1 {
+background-color: lightgreen;
+color: green;
+}
+
+h2 {
+color: red;
+background-color: green;
+}
+
+h3 {
+background-color: blue;
+color: black;
+}
+
+p {
+color: white;
+}
